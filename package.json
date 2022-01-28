@@ -30,14 +30,7 @@
   },
   "react-native": "src/index.ts",
   "types": "lib/typescript/index.d.ts",
-  "files": [
-    ".",
-    "index.ts",
-    "lib",
-    "!**/__tests__",
-    "!**/__fixtures__",
-    "!**/__mocks__"
-  ],
+  "files": ["."],
   "@react-native-community/bob": {
     "source": "src",
     "output": "lib",
